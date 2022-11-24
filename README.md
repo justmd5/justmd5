@@ -1,5 +1,3 @@
-🦮 Keep it simple, and stupid.<br/>
-🐂 保持简单，保持拙朴。
 
 <a href="https://github.com/hotoo">
   <image width='38%' src="https://github-readme-stats.vercel.app/api?username=hotoo&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
@@ -21,6 +19,8 @@ div align="center">
 ![Github Top Programing Language](https://github-readme-stats.vercel.app/api/top-langs/?username=justmd5&hide=php,golang,vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 -->
 
+🦮 Keep it simple, and stupid.<br/>
+🐂 保持简单，保持拙朴。
 
 🇨🇳 China Wuhan・🕹Web developer
 
