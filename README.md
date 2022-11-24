@@ -19,7 +19,7 @@ div align="center">
 ![Github Top Programing Language](https://github-readme-stats.vercel.app/api/top-langs/?username=justmd5&hide=php,golang,vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 -->
 
-🦮 Keep it simple, and stupid.<br/>
+🦮 Keep simple, and stupid.<br/>
 
 🇨🇳 China Wuhan・🕹Web developer
 
