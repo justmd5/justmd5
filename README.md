@@ -20,7 +20,6 @@ div align="center">
 -->
 
 🦮 Keep it simple, and stupid.<br/>
-🐂 保持简单，保持拙朴。
 
 🇨🇳 China Wuhan・🕹Web developer
 
