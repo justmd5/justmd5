@@ -1,9 +1,9 @@
 
-<a href="https://github.com/hotoo">
-  <image width='38%' src="https://github-readme-stats.vercel.app/api?username=hotoo&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
+<a href="https://github.com/justmd5">
+  <image width='38%' src="https://github-readme-stats.vercel.app/api?username=justmd5&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
 </a>
-<a href="https://github.com/mozillazg">
-  <image width='60%' src="https://cdn.jsdelivr.net/gh/hotoo/hotoo@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
+<a href="https://github.com/justmd5">
+  <image width='60%' src="https://cdn.jsdelivr.net/gh/justmd5/justmd5@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
 </a>
 
 <p/><p/>
