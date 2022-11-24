@@ -22,10 +22,6 @@ div align="center">
 -->
 
 
-### Hello 👋
-
-> Keep humble and coding.
-
 🇨🇳 China Wuhan・🕹Web developer
 
 https://justmd5.com
