@@ -1,13 +1,8 @@
 
 <a href="https://github.com/justmd5">
-  <image width='38%' src="https://github-readme-stats.vercel.app/api?username=justmd5&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
-</a>
-<a href="https://github.com/justmd5">
   <image width='60%' src="https://raw.githubusercontent.com/justmd5/justmd5/output/github-contribution-grid-snake.svg" />
 </a>
-
 <p/><p/>
-
 
 <!--
 div align="center">
@@ -15,9 +10,9 @@ div align="center">
 </div
 -->
 
-<!--
+
 ![Github Top Programing Language](https://github-readme-stats.vercel.app/api/top-langs/?username=justmd5&hide=php,golang,vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
--->
+
 
 🦮 Keep simple, and stupid.<br/>
 
